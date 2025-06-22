@@ -205,7 +205,7 @@ Prints the `PWD` environment variable to stdout.
 ## Compilation
 
 ```bash
-gcc -o myshell myshell.c
+gcc -well myshell.c utility.c -o myshell
 ```
 
 ## Usage
